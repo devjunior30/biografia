@@ -36,7 +36,7 @@ h1 {
     padding-top: 30px;
 }
 
-#h2-inicial, #meio {
+#h2-inicial, #meio, h3 {
     font-size: 20px;
     margin-top: 20px;
     margin-left: 10px;
@@ -62,4 +62,36 @@ h1 {
     margin-left: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
+}
+
+#paragrafo-meio {
+    width: 250px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+#paragrafo-meio::before{
+    content: "•";
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#link-principal {
+    text-decoration: none;
+    color: #3CB371;
+    margin-left: 50px;
+}
+
+#ultimo {
+    margin-left: 20px;
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-style: italic;
+    font-weight: 900;
+    color: #3CB371;
+    text-decoration: #3CB371 underline;
 }
