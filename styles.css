@@ -129,12 +129,22 @@ button {
 
 #lado {
     display: inline-block;
+<<<<<<< HEAD
 
+=======
+    bottom: 50px;
+ 
+>>>>>>> 789399e5b98b7207b77119dbd1689b0a94317bbf
 }
 
 #img-ult {
     width: 500px;
     margin-left: 50px;
     border-radius: 20px;
+<<<<<<< HEAD
     margin-bottom: 50vh;
 }
+=======
+}
+
+>>>>>>> 789399e5b98b7207b77119dbd1689b0a94317bbf
