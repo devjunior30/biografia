@@ -234,6 +234,14 @@ button {
         border-radius: 19px;
     }
 
+    #lado2 {
+        display: block;
+    }
+
+    #lado {
+        display: block;
+    }
+
     #img-ult {
         width: 300px;
         margin-left: 50px;
