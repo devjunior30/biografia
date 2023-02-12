@@ -243,6 +243,7 @@ button {
     }
 
     #img-ult {
+        display: none !important;
         width: 200px;
         margin-left: 50px;
         margin-bottom: 0;
