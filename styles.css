@@ -153,6 +153,8 @@ button {
 }
 
 @media screen and (max-width:520px) {
+
+
     h1 {
         font-size: 15px;
         margin-left: 15px;
@@ -201,6 +203,46 @@ button {
         margin: 10px 5px;
         width: 70px;
         border-radius: 15px;
+    }
+
+    h3 {
+        margin-left: 30px;
+        text-align: center;
+        width: 350px;
+        font-size: 13px;
+    }
+
+    button {
+        background-color: white;
+        margin-left: 50%;
+        margin-right: 50%;
+        display: block;
+        width: 177px;
+    }
+
+    #ultimo {
+        text-decoration: none;
+        margin-top: 15px;
+        margin-bottom: 16px;
+        text-align: center;
+        font-size: 12px;
+        width: 355px;
+        line-height: 16px;
+        letter-spacing: 1px;
+        border: 2px solid #3CD371;
+        padding: 5px;
+        border-radius: 19px;
+    }
+
+    #img-ult {
+        width: 300px;
+        margin-left: 50px;
+        margin-bottom: 0;
+    }
+
+    #h2-final {
+        font-size: 20px;
+        margin-top: 10px;
     }
 
 
