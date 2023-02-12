@@ -152,7 +152,56 @@ button {
     font-weight: 600;
 }
 
-@media  screen and (max-width:520px) {
-    
-}
+@media screen and (max-width:520px) {
+    h1 {
+        font-size: 15px;
+        margin-left: 15px;
+        text-align: 0;
+    }
 
+    .link-final {
+        font-weight: 500;
+        font-size: 13px;
+    }
+
+    nav {
+        margin-left: 30px;
+    }
+
+    #muda-cor {
+        width: 50vw;
+        margin-left: 100px;
+    }
+
+    #paragrafo-inicial {
+        width: auto;
+        padding-top: 20px;
+        margin-left: 15px;
+        font-size: 13px;
+        padding-right: 10px;
+    }
+
+    #h2-inicial {
+        margin-left: 30px;
+        width: 350px;
+        font-size: 17px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+        line-height: 28px;
+    }
+
+    #unica {
+        margin-left: 50%;
+        margin-right: 50%;
+        display: inline-flex;
+    }
+
+    .img {
+        margin: 10px 5px;
+        width: 70px;
+        border-radius: 15px;
+    }
+
+
+}
